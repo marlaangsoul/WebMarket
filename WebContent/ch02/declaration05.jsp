@@ -9,5 +9,10 @@ return data.toLowerCase();
 <%
 out.println(makeItLower("Hello World"));
 %>
+
+
 </body>
+
+
+
 </html>
